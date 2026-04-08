@@ -32,7 +32,7 @@
 	},
 	"devDependencies": {
 		"execa": "^5.0.0",
-		"jest": "^27.4.2",
+		"jest": "^30.3.0",
 		"pkg": "^5.8.1"
 	},
 	"pkg": {
